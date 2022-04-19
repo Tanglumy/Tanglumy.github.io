@@ -238,7 +238,7 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - https://tanglu-1302625801.cos.ap-nanjing.myqcloud.com/md/
+    - assets/img/
   input_formats:
     - ".jpg"
     - ".jpeg"
