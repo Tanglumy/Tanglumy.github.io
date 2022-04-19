@@ -1,42 +1,46 @@
-I"ê$<!-- _pages/publications.md -->
-<!-- <div class="publications">
-<!--
+I"Å"<!-- _pages/publications.md -->
+<div class="publications">
   <h2 class="year">1956</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;div class="row"&gt;
-    &lt;div class="col-sm-2 abbr"&gt;&lt;/div&gt;
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
 
-    &lt;!-- Entry bib key --&gt;
-    &lt;div id="einstein1956investigations" class="col-sm-8"&gt;
-    
-      &lt;!-- Title --&gt;
-      &lt;div class="title"&gt;Investigations on the Theory of the Brownian Movement&lt;/div&gt;
-      &lt;!-- Author --&gt;
-      &lt;div class="author"&gt;
-            &lt;em&gt;Einstein, Albert&lt;/em&gt;
-      &lt;/div&gt;
+        <!-- Entry bib key -->
+        <div id="einstein1956investigations" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Investigations on the Theory of the Brownian Movement</div>
+          <!-- Author -->
+          <div class="author">
+                <em>Einstein, Albert</em>
+          </div>
 
-      &lt;!-- Journal/Book title and date --&gt;
-      &lt;div class="periodical"&gt;
-        1956
-      &lt;/div&gt;
-    
-      &lt;!-- Links/Buttons --&gt;
-      &lt;div class="links"&gt;
-        &lt;a class="bibtex btn btn-sm z-depth-0" role="button"&gt;Bib&lt;/a&gt;
-      &lt;/div&gt;
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            1956
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
 
-      &lt;!-- Hidden bibtex block --&gt;
-      &lt;div class="bibtex hidden"&gt;
-        &lt;figure class="highlight"&gt;&lt;pre&gt;&lt;code class="language-bibtex" data-lang="bibtex"&gt;&lt;span class="nc"&gt;@book&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="nl"&gt;einstein1956investigations&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;   &lt;span class="na"&gt;bibtex_show&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s"&gt;{true}&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;   &lt;span class="na"&gt;title&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s"&gt;{Investigations on the Theory of the Brownian Movement}&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;   &lt;span class="na"&gt;author&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s"&gt;{Einstein, Albert}&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;   &lt;span class="na"&gt;year&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s"&gt;{1956}&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;   &lt;span class="na"&gt;publisher&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s"&gt;{Courier Corporation,}&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</code></pre></div></div>
-<p>&lt;/li&gt;&lt;/ol&gt;</p>
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@book</span><span class="p">{</span><span class="nl">einstein1956investigations</span><span class="p">,</span>
+  <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Investigations on the Theory of the Brownian Movement}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Einstein, Albert}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{1956}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Courier Corporation,}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
 
-<h2 class="year">1950</h2>
-<ol class="bibliography"><li><!-- _layouts/bib.html -->
+  <h2 class="year">1950</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge">AJP</abbr></div>
 
@@ -79,8 +83,8 @@
       </div>
 </li></ol>
 
-<h2 class="year">1935</h2>
-<ol class="bibliography"><li><!-- _layouts/bib.html -->
+  <h2 class="year">1935</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge">PhysRev</abbr></div>
 
@@ -115,8 +119,8 @@
       </div>
 </li></ol>
 
-<h2 class="year">1905</h2>
-<ol class="bibliography"><li><!-- _layouts/bib.html -->
+  <h2 class="year">1905</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"></div>
 
@@ -198,5 +202,6 @@
       </div>
 </li></ol>
 
-<p>&lt;/div&gt; â€“&gt; â€“&gt;</p>
+
+</div>
 :ET
