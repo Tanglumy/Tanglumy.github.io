@@ -6,6 +6,6 @@ dropdown: true
 children: 
     - title: CV
       permalink: /CV.pdf
-    - title: divider
+    # - title: divider
     
 ---
