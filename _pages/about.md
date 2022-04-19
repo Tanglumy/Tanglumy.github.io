@@ -9,7 +9,7 @@ profile:
   image: me.jpg
   address: >
     <p>23,Hongda Street</p>
-    <p>Tianjin, Binhai New Area</p>
+    <p>Binhai New Area, Tianjin</p>
      <p>China, 300457</p>
 
 news: false  # includes a list of news items
