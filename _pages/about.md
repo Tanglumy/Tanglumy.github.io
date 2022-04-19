@@ -6,7 +6,7 @@ subtitle: <a href='https://www.nankai.edu.cn/'>Nankai University</a>. Tianjin. C
 
 profile:
   align: right
-  image: ME.jpg
+  image: me.jpg
   address: >
     <p>23,Hongda Street</p>
     <p>Tianjin, Binhai New Area</p>
