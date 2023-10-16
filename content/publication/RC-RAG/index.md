@@ -25,10 +25,10 @@ publishDate: '2021-06-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Technical Report
 publication_short: 
 
 abstract: The continuous spread of COVID-19 these days has been calling for a way to provide instant and readable knowledge for researchers, medical workers and the general public. Recent works on COVID related question answering (QA) systems have leveraged retrievalbased structures and yielded promising results, yet sometimes their answers could become unreadable for most users due to the highly technical nature of their knowledge source. We propose RC-RAG for Readability Controlled Retrieval Augmented Generation, an open-domain question-answering system on COVID related topics, which is capable of generating answers of a chosen readability score given a COVID-related question. Our model is proved to generate answers of different readability levels, and could meet the requirements of people with different levels of education. We hope our system will be able to aid researchers and the general public to go through this tough time together.
@@ -36,7 +36,7 @@ abstract: The continuous spread of COVID-19 these days has been calling for a wa
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -48,7 +48,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'Slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -57,7 +57,7 @@ url_video: ''
 image:
   caption: '[**RC-RAG**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

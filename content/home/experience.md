@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: ASAP lab, USC
+    company_url: 'https://usc.edu'
+    company_logo: USC
+    location: CA, USA
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Advised by  [Prof. Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
   - title: Research Engineer Intern
     company: FinAI, International Digital Economy Academy
     company_url: 'https://idea.edu.cn'
@@ -29,7 +37,7 @@ experience:
     location: Shenzhen, China
     date_start: '2022-08-20'
     date_end: ''
-    description: Advised by Dr.Chengjin Xu
+    description: Advised by Dr. [Chengjin Xu](https://scholar.google.de/citations?user=sIts5VgAAAAJ&hl=zh-CN),  [Prof. Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=zh-CN)
   - title: Research Intern
     company: University of California, Irvine
     company_url: 'https://uci.edu'
@@ -37,7 +45,7 @@ experience:
     location: Remote
     date_start: '2021-07-01'
     date_end: '2021-09-01'
-    description: Advised by Prof. [Ian Harris](https://www.ics.uci.edu/~harris/)
+    description: Advised by  [Prof. Ian Harris](https://www.ics.uci.edu/~harris/)
   - title: Research Intern
     company: Gematria Tech
     company_url: 'https://gematria.tech'
@@ -53,7 +61,7 @@ experience:
     location: Tianjin, China
     date_start: '2020-10-01'
     date_end: '2022-01-15'
-    description: Advised by Prof. Shenlin Zhang
+    description: Advised by [Prof. Shenlin Zhang](https://nkcs.iops.ai/shenglinzhang/)
 design:
   columns: '2'
 ---

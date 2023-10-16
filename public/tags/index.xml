@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Lumingyuan Tang</title>
-    <link>https://tanglumy.com/tags/</link>
-      <atom:link href="https://tanglumy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>Gasolsun.github.io/tags/</link>
+      <atom:link href="Gasolsun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tanglumy.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/Gasolsun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://tanglumy.com/tags/</link>
+      <link>Gasolsun.github.io/tags/</link>
     </image>
     
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lumingyuan Tang</title>
-    <link>https://tanglumy.com/</link>
-      <atom:link href="https://tanglumy.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>Gasolsun.github.io/</link>
+      <atom:link href="Gasolsun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lumingyuan Tang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tanglumy.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/Gasolsun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Lumingyuan Tang</title>
-      <link>https://tanglumy.com/</link>
+      <link>Gasolsun.github.io/</link>
     </image>
     
     <item>
       <title>Readability Controlled Open-domain QA for COVID-19</title>
-      <link>https://tanglumy.com/publication/rc-rag/</link>
+      <link>Gasolsun.github.io/publication/rc-rag/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://tanglumy.com/publication/rc-rag/</guid>
+      <guid>Gasolsun.github.io/publication/rc-rag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FeatherTrans</title>
-      <link>https://tanglumy.com/project/example/</link>
+      <link>Gasolsun.github.io/project/example/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://tanglumy.com/project/example/</guid>
+      <guid>Gasolsun.github.io/project/example/</guid>
       <description>&lt;p&gt;a light ﬁle transfer tool using agile development methodologies on Tencent Agile Product Development platform.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tanglumy.com/admin/config.yml</link>
+      <link>Gasolsun.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tanglumy.com/admin/config.yml</guid>
+      <guid>Gasolsun.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

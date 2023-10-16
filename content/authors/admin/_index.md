@@ -6,7 +6,7 @@ title: Lumingyuan Tang
 superuser: true
 
 # Role/position/tagline
-role: Gradute Student@USC
+role: Master Student@USC
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
     url: https://usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP.
+bio: My research interests include NLP, Knowledge graph.
 
 # Interests to show in About widget
 interests:
-  - AI in Finance
+  - Knowledge Augmented Language Model
+  - Large Language Model
   - Knowledge Graph
-  - Open Domain QA
+  - AI in finance
 
 # Education to show in About widget
 education:
@@ -40,9 +41,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tanglujay@gmail.com'
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=nyMT_j4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/tanglumy
@@ -63,9 +64,6 @@ email: 'tanglujay@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a master student at the University of Southern California. 
+I am now a master student at the University of Southern California. Prior that, I received my bachelor's degree in Software Engineering from Nankai University.
 
-I am working as a research engineer intern at [International Digital Economy Academy](https://idea.edu.cn/). From March 2021-June 2021, I worked as an research intern advised by Dr. [Gary Becigeul](https://www.garybe.com/) at Gematria Technologies. From the July 2021-October 2021 , I was a visiting student researcher at University of California, Irvine.
-
-My research interests include Machine Learning, Natural Language Processing, and Knowledge Graph in Finance and Question Answering.
-
+I am  working as a research engineer intern at [International Digital Economy Academy](https://idea.edu.cn/). 

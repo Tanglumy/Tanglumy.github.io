@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://tanglumy.com/sitemap.xml
+Sitemap: Gasolsun.github.io/sitemap.xml
