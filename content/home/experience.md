@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: ASAP lab, USC
     company_url: 'https://usc.edu'
-    company_logo: USC
+    company_logo: usc
     location: CA, USA
     date_start: '2023-09-01'
     date_end: ''
