@@ -22,7 +22,7 @@ date: '2023-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-10-01T00:00:00Z'
+# publishDate: '2023-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,7 +39,7 @@ abstract: Knowledge graphs (KGs) are structured representations of diversified k
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -58,9 +58,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**Overview of the survey**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Overview of the survey'
   focal_point: ''
-  preview_only: False
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

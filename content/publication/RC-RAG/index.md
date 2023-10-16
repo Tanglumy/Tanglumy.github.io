@@ -36,7 +36,7 @@ abstract: The continuous spread of COVID-19 these days has been calling for a wa
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -55,9 +55,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**RC-RAG**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'RC-RAG'
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
