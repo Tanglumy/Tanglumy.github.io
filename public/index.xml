@@ -5,12 +5,28 @@
     <link>Gasolsun.github.io/</link>
       <atom:link href="Gasolsun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lumingyuan Tang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/Gasolsun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/Gasolsun.github.io/media/icon_hufb7068b287bdb46daa580dc2afe1172e_11882_512x512_fill_lanczos_center_3.png</url>
       <title>Lumingyuan Tang</title>
       <link>Gasolsun.github.io/</link>
     </image>
+    
+    <item>
+      <title>On the Evolution of Knowledge Graphs: A Survey and Perspective</title>
+      <link>Gasolsun.github.io/publication/overview/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>Gasolsun.github.io/publication/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph</title>
+      <link>Gasolsun.github.io/publication/tog/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>Gasolsun.github.io/publication/tog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Readability Controlled Open-domain QA for COVID-19</title>
